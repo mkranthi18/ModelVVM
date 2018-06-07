@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{78595B0E-3965-4146-A489-642D6BE065C2}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="ModelVVM/Views/MyPage.xaml.cs" Line="48" Column="46" />
+      <File FileName="ModelVVM/Views/MyPage.xaml" Line="3" Column="37" />
+      <File FileName="ModelVVM/Views/Signup.xaml" Line="52" Column="23" />
+      <File FileName="ModelVVM/Views/Signup.xaml.cs" Line="52" Column="8" />
+      <File FileName="ModelVVM/Views/Success.xaml" Line="39" Column="1" />
+      <File FileName="ModelVVM/Views/Success.xaml.cs" Line="20" Column="2" />
+      <File FileName="ModelVVM/Views/LoginPage.xaml" Line="23" Column="23" />
+      <File FileName="ModelVVM/Views/LoginsamaplePage.xaml.cs" Line="16" Column="4" />
+      <File FileName="ModelVVM/Model/DataAccess.cs" Line="34" Column="1" />
+      <File FileName="ModelVVM/App.xaml.cs" Line="15" Column="48" />
+      <File FileName="ModelVVM/App.xaml" Line="7" Column="1" />
+      <File FileName="ModelVVM/Views/sampl.xaml" Line="6" Column="1" />
+      <File FileName="ModelVVM/Views/sampl.xaml.cs" Line="6" Column="11" />
+      <File FileName="ModelVVM/Views/Login.xaml" Line="19" Column="1" />
+      <File FileName="ModelVVM/Views/Login.xaml.cs" Line="5" Column="21" />
+      <File FileName="ModelVVM/Views/LoginPage.xaml.cs" Line="10" Column="10" />
+      <File FileName="ModelVVM/Views/Details.xaml" Line="48" Column="1" />
+      <File FileName="ModelVVM/Views/Details.xaml.cs" Line="16" Column="1" />
+      <File FileName="ModelVVM/Views/Register.xaml" Line="57" Column="1" />
+      <File FileName="ModelVVM/Views/Register.xaml.cs" Line="15" Column="42" />
+      <File FileName="ModelVVM/Services/Isqlite.cs" Line="11" Column="1" />
+      <File FileName="ModelVVM/ModelVVMPage.xaml" Line="5" Column="1" />
+      <File FileName="ModelVVM/ModelVVMPage.xaml.cs" Line="9" Column="35" />
+      <File FileName="ModelVVM/Views/Employee.cs" Line="31" Column="1" />
+      <File FileName="ModelVVM/Views/Employer.cs" Line="20" Column="22" />
+      <File FileName="ModelVVM/Views/Information.xaml" Line="57" Column="1" />
+      <File FileName="ModelVVM/Views/Information.xaml.cs" Line="6" Column="14" />
+      <File FileName="ModelVVM/Model/Employee.cs" Line="17" Column="22" />
+      <File FileName="ModelVVM/Model/EmptyClass.cs" Line="2" Column="11" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="2" Column="12" />
+      <File FileName="Droid/Resources/AboutResources.txt" Line="1" Column="1" />
+      <File FileName="Droid/packages.config" Line="1" Column="1" />
+      <File FileName="ModelVVM/packages.config" Line="1" Column="1" />
+      <File FileName="ModelVVM/ViewModel/RegisteredViewModel.cs" Line="17" Column="1" />
+      <File FileName="ModelVVM/ViewModel/BaseViewModel.cs" Line="19" Column="3" />
+      <File FileName="ModelVVM/ViewModel/LoginViewModel.cs" Line="39" Column="36" />
+      <File FileName="ModelVVM/Views/updatepage.xaml" Line="6" Column="1" />
+      <File FileName="ModelVVM/Views/updatepage.xaml.cs" Line="12" Column="35" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/Bobby/Projects/ModelVVM/ModelVVM/Model/DataAccess.cs" relfile="ModelVVM/Model/DataAccess.cs" line="31" column="1" />
+      <Breakpoint file="/Users/Bobby/Projects/ModelVVM/ModelVVM/Views/Register.xaml.cs" relfile="ModelVVM/Views/Register.xaml.cs" line="25" column="1" />
+      <Breakpoint file="/Users/Bobby/Projects/ModelVVM/ModelVVM/ViewModel/RegisteredViewModel.cs" relfile="ModelVVM/ViewModel/RegisteredViewModel.cs" line="17" column="1" />
+      <Breakpoint file="/Users/Bobby/Projects/ModelVVM/ModelVVM/ViewModel/LoginViewModel.cs" relfile="ModelVVM/ViewModel/LoginViewModel.cs" line="26" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ModelVVM.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>

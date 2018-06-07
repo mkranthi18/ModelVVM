@@ -1,0 +1,62 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelVVM", "ModelVVM\ModelVVM.csproj", "{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelVVM.iOS", "iOS\ModelVVM.iOS.csproj", "{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModelVVM.Droid", "Droid\ModelVVM.Droid.csproj", "{78595B0E-3965-4146-A489-642D6BE065C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|iPhone.Build.0 = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{ECF6AC66-D26F-4A6C-9248-1D4FEF4DD0D6}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|Any CPU.ActiveCfg = Debug|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|Any CPU.Build.0 = Debug|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|Any CPU.Build.0 = Release|iPhone
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|iPhone.Build.0 = Release|iPhone
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{ED3D94FA-4618-45A6-A50D-24F1BAB3256E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|iPhone.Build.0 = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{78595B0E-3965-4146-A489-642D6BE065C2}.Debug|iPhone.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+	EndGlobalSection
+EndGlobal

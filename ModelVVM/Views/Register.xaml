@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ModelVVM.Views.Register">
+    <ContentPage.Content>
+    <StackLayout Padding="50" Orientation="Vertical">
+
+
+
+            <Entry 
+                x:Name="FirstName"
+                Text="{Binding FirstName}"
+                Placeholder="First Name"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="LastName"
+                   Text="{Binding LastName}"
+                   Placeholder="Last Name"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Email"
+                   Text="{Binding Email}"
+                   Placeholder="Email Address"
+                   WidthRequest="150"></Entry>
+
+             <Entry 
+                x:Name="Location"
+                Placeholder="Your Location"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Client"
+                   Placeholder="Your Client"
+                   WidthRequest="150"></Entry>
+            <Entry x:Name="Vendor"
+                   Placeholder="Your Vendor"
+                   WidthRequest="150"></Entry>
+            
+           
+
+            <StackLayout Orientation="Horizontal">
+
+            <Button BackgroundColor="Black" 
+                    TextColor="White"
+                    Text="Register"
+                    Command="{Binding AddCommand}"></Button>
+
+            <Button BackgroundColor="Black"
+                   
+                    TextColor="White"
+                    Text="Cancel"
+                    ></Button>
+
+            </StackLayout>
+                    
+
+            
+        </StackLayout>
+        
+        
+    </ContentPage.Content>
+</ContentPage>
